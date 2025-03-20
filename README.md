@@ -65,7 +65,7 @@
 🔹 Developed an AI model integrating **video & audio** to detect anomalies in online interviews.  
 🔹 Achieved **92% real-time accuracy** and deployed using Flask.  
 
-### **Facial Emotion Cheating Detection** *(Oct 2024 – Dec 2024)*  
+### **Facial Emotion Detection** *(Oct 2024 – Dec 2024)*  
 🔹 **Technologies:** Python, LightGBM, Random Forest, Flask  
 🔹 Built a **facial emotion detection model** achieving **98% classification accuracy**.  
 🔹 Created a real-time **Flask-based web interface** for emotion analysis.  
