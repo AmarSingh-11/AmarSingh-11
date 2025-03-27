@@ -51,21 +51,38 @@
 ---
 
 ## 💼 Experience  
-### **Eveume.ai | Data Science Intern** *(May 2024 – Aug 2024)*  
-🔹 Developed a **deep learning system** (CNN + LSTM) for detecting cheating in online interviews.  
-🔹 Achieved **92% accuracy** by analyzing facial expressions, eye movements, and voice features.  
-🔹 Built an AI model for **real-time anomaly detection** using audio-video preprocessing.  
 
-### **IIT Guwahati | AI Intern** *(Jun 2024 – Aug 2024)*  
-🔹 Developed a **Retentive Neural Network** for continuous learning without forgetting.  
-🔹 Reduced forgetting rate by **18%** using optimized training and transfer learning.  
-🔹 Executed a **Spark script for GPU architecture**, improving computational speed by **20%**.  
-
-### **Meri Skill | Data Analyst Intern** *(Jun 2023 – Aug 2023)*  
-🔹 Forecasted trends using **predictive analytics** & real-time visualization.  
-🔹 Built **interactive dashboards** in **Power BI** for business insights.  
+### **Makonis | AI Engineer Intern** *(Jan 2024 – Apr 2024)*  
+🔹 Engineered an **AI-powered Avatar System**, integrating **Deep Learning, NLP, and Computer Vision** for human-like interactions.  
+🔹 Designed and implemented **Autonomous Robot Navigation** using **Reinforcement Learning** and **SLAM (Simultaneous Localization and Mapping)**.  
+🔹 Developed a **real-time facial recognition module** for personalized user engagement in virtual environments.  
+🔹 Worked with **Transformer-based models** for improving avatar speech synthesis and response generation.  
+🔹 Optimized **AI-driven motion prediction algorithms**, reducing processing latency by **25%**.  
 
 ---
+
+### **Eveume.ai | Data Science Intern** *(May 2024 – Aug 2024)*  
+🔹 Developed a **Deep Learning system** (CNN + LSTM) for detecting cheating in online interviews.  
+🔹 Achieved **92% accuracy** by analyzing **facial expressions, eye movements, and voice patterns**.  
+🔹 Built an AI model for **real-time anomaly detection**, using advanced **audio-video preprocessing techniques**.  
+
+---
+
+### **IIT Guwahati | AI Intern** *(Jun 2024 – Aug 2024)*  
+🔹 Designed a **Retentive Neural Network** for **continual learning** to tackle catastrophic forgetting.  
+🔹 Reduced **model forgetting rate by 18%** using **optimized transfer learning techniques**.  
+🔹 Implemented a **Spark-based GPU acceleration script**, improving computational efficiency by **20%**.  
+
+---
+
+### **Meri Skill | Data Analyst Intern** *(Jun 2023 – Aug 2023)*  
+🔹 Developed **predictive analytics models** for trend forecasting and market insights.  
+🔹 Built **interactive Power BI dashboards** to enable real-time business intelligence.  
+🔹 Conducted **data preprocessing and feature engineering**, improving model accuracy by **15%**.  
+
+---
+
+
 
 ## 🔥 Featured Projects  
 ### **Preventing Cheating in Online Interviews** *(Apr 2024 – Aug 2024)*  
