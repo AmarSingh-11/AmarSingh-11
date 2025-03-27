@@ -8,14 +8,22 @@
 
 ---
 
+
+
 ## 🚀 About Me  
 - 🎓 **B.Tech. (Hons.) Computer Science & Engineering - Data Science** @ Vidyashilp University (2022-2026)  
 - 💡 Passionate about **AI, Machine Learning, Deep Learning, and Data Science**  
 - 🏆 **Winner** of multiple hackathons including **Bhasini Techathon 2024** & **IEEE Leadership Summit 2024**  
 - 🎯 Interested in **AI, Robotics, and Large Language Models (LLMs)**  
 - 🌱 Currently learning **React, FastAPI, and advanced ML techniques**  
+- 🔥 **Leadership Roles in IEEE:**  
+  - **Chair** of the **IEEE Student Branch** at **Vidyashilp University**  
+  - **Vice-Chair** of the **Robotics and Automation Society (RAS)**  
+  - **Active Member** of **Women in Engineering (WIE)**  
 
 ---
+
+
 
 ## 🛠️ Tech Stack  
 **Languages:**  
